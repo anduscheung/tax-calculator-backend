@@ -4,7 +4,8 @@
   "description": "The backend for the tax calculator app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "netlify deploy --prod"
   },
   "author": "Andus Cheung",
   "license": "ISC",
