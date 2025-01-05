@@ -7,3 +7,5 @@
   from = "/api/*"
   status = 200
   to = "/.netlify/functions/api/:splat"
+[dev]
+  port = 5001
